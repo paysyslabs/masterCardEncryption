@@ -4,6 +4,7 @@
 **>** Used master card sdk for encryption purpose here is link: https://github.com/Mastercard/client-encryption-java <br />
 **>** Need key pair(public-private) for encryption.<br />
 **>** We have craeted two controllers **encrypt**, **decrypt**.<br />
+**>** Create new directory name **cert** in root folder add you certs(public or private key).<br />
 
 **Steps<br />**
 **1.** Clone project.<br />
